@@ -1,0 +1,15 @@
+C:\Users\leap\Desktop\ДЗ\Home_Work4\obj\Debug\net6.0\Home_Work4.csproj.AssemblyReference.cache
+C:\Users\leap\Desktop\ДЗ\Home_Work4\obj\Debug\net6.0\Home_Work4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leap\Desktop\ДЗ\Home_Work4\obj\Debug\net6.0\Home_Work4.AssemblyInfoInputs.cache
+C:\Users\leap\Desktop\ДЗ\Home_Work4\obj\Debug\net6.0\Home_Work4.AssemblyInfo.cs
+C:\Users\leap\Desktop\ДЗ\Home_Work4\obj\Debug\net6.0\Home_Work4.csproj.CoreCompileInputs.cache
+C:\Users\leap\Desktop\ДЗ\Home_Work4\bin\Debug\net6.0\Home_Work4.exe
+C:\Users\leap\Desktop\ДЗ\Home_Work4\bin\Debug\net6.0\Home_Work4.deps.json
+C:\Users\leap\Desktop\ДЗ\Home_Work4\bin\Debug\net6.0\Home_Work4.runtimeconfig.json
+C:\Users\leap\Desktop\ДЗ\Home_Work4\bin\Debug\net6.0\Home_Work4.dll
+C:\Users\leap\Desktop\ДЗ\Home_Work4\bin\Debug\net6.0\Home_Work4.pdb
+C:\Users\leap\Desktop\ДЗ\Home_Work4\obj\Debug\net6.0\Home_Work4.dll
+C:\Users\leap\Desktop\ДЗ\Home_Work4\obj\Debug\net6.0\refint\Home_Work4.dll
+C:\Users\leap\Desktop\ДЗ\Home_Work4\obj\Debug\net6.0\Home_Work4.pdb
+C:\Users\leap\Desktop\ДЗ\Home_Work4\obj\Debug\net6.0\Home_Work4.genruntimeconfig.cache
+C:\Users\leap\Desktop\ДЗ\Home_Work4\obj\Debug\net6.0\ref\Home_Work4.dll
