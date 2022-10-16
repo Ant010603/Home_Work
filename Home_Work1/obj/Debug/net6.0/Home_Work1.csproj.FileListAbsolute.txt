@@ -1,0 +1,15 @@
+C:\Users\leap\Desktop\ДЗ\Home_Work1\bin\Debug\net6.0\Home_Work1.exe
+C:\Users\leap\Desktop\ДЗ\Home_Work1\bin\Debug\net6.0\Home_Work1.deps.json
+C:\Users\leap\Desktop\ДЗ\Home_Work1\bin\Debug\net6.0\Home_Work1.runtimeconfig.json
+C:\Users\leap\Desktop\ДЗ\Home_Work1\bin\Debug\net6.0\Home_Work1.dll
+C:\Users\leap\Desktop\ДЗ\Home_Work1\bin\Debug\net6.0\Home_Work1.pdb
+C:\Users\leap\Desktop\ДЗ\Home_Work1\obj\Debug\net6.0\Home_Work1.csproj.AssemblyReference.cache
+C:\Users\leap\Desktop\ДЗ\Home_Work1\obj\Debug\net6.0\Home_Work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leap\Desktop\ДЗ\Home_Work1\obj\Debug\net6.0\Home_Work1.AssemblyInfoInputs.cache
+C:\Users\leap\Desktop\ДЗ\Home_Work1\obj\Debug\net6.0\Home_Work1.AssemblyInfo.cs
+C:\Users\leap\Desktop\ДЗ\Home_Work1\obj\Debug\net6.0\Home_Work1.csproj.CoreCompileInputs.cache
+C:\Users\leap\Desktop\ДЗ\Home_Work1\obj\Debug\net6.0\Home_Work1.dll
+C:\Users\leap\Desktop\ДЗ\Home_Work1\obj\Debug\net6.0\refint\Home_Work1.dll
+C:\Users\leap\Desktop\ДЗ\Home_Work1\obj\Debug\net6.0\Home_Work1.pdb
+C:\Users\leap\Desktop\ДЗ\Home_Work1\obj\Debug\net6.0\Home_Work1.genruntimeconfig.cache
+C:\Users\leap\Desktop\ДЗ\Home_Work1\obj\Debug\net6.0\ref\Home_Work1.dll
